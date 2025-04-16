@@ -1,6 +1,6 @@
 [project]
 name = "fastapi-jsend"
-version = "0.1.0"
+version = "0.1.1"
 description = "JSend response models and utils for FastAPI"
 authors = [
   { name="Saleh Ramezani", email="salehthedev@gmail.com" }
